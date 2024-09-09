@@ -3,7 +3,7 @@ Library     SeleniumLibrary
 
 *** Variables ***
 ${search_text}  sambos
-@{search_text_list}  books  travel  sambos  robot
+@{search_text_list}  books  travell  sambos  robot
 
 *** Keywords ***
 
